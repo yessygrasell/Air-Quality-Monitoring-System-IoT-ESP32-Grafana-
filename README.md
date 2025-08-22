@@ -24,6 +24,7 @@ Software: Arduino IDE, Node-RED, MQTT Broker, InfluxDB, Grafana
 
 
 **⚙️ Quick Start**
+
 1️⃣ Setup ESP32
 
 Clone repo ini
