@@ -6,12 +6,12 @@ Sistem menggunakan **ESP32**, sensor **ZH03B (PM2.5 & PM10)**, dan **DHT11 (suhu
 ---
 
 ## 🚀 Fitur Utama
-- 🔹 Monitoring real-time suhu, kelembaban, PM2.5, dan PM10  
-- 🔹 Dashboard interaktif dengan Grafana  
-- 🔹 Penyimpanan data historis di InfluxDB  
-- 🔹 Integrasi IoT penuh dengan ESP32 & MQTT  
-- 🔹 Flow Node-RED yang mengatur alur data sensor → database → visualisasi  
-- 🔹 Visualisasi status kualitas udara berdasarkan standar AQI  
+ 🔹 Monitoring real-time suhu, kelembaban, PM2.5, dan PM10  
+ 🔹 Dashboard interaktif dengan Grafana  
+ 🔹 Penyimpanan data historis di InfluxDB  
+ 🔹 Integrasi IoT penuh dengan ESP32 & MQTT  
+ 🔹 Flow Node-RED yang mengatur alur data sensor → database → visualisasi  
+ 🔹 Visualisasi status kualitas udara berdasarkan standar AQI  
 
 ---
 
