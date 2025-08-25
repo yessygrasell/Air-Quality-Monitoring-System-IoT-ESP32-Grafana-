@@ -45,26 +45,34 @@ Sistem menggunakan **ESP32**, sensor **ZH03B (PM2.5 & PM10)**, dan **DHT11 (suhu
 - Tambahkan data source InfluxDB di Grafana  
 - Buat dashboard dengan panel: suhu, kelembaban, PM2.5, PM10, & AQI  
 
+
 ---
 
-## 📂 Struktur Repository
-```text
-├── src/                      # Kode sumber Arduino (air_quality.ino)
-├── docs/                     # Dokumentasi (diagram wiring, flow, dashboard, prototipe)
-├── flows/flow.json           # Flow untuk Node-RED
-└── README.md                 # Dokumentasi utama ini
-📸 Dokumentasi Proyek
-🔌 Diagram Wiring
-<img src="docs/wiring.png" alt="Wiring Diagram" width="500"/>
-🖥️ Flow Node-RED
-<img src="docs/nodered_flow.png" alt="Node-RED Flow" width="500"/>
-📊 Visualisasi InfluxDB
-<img src="docs/visualisasi_influxdb.png" alt="InfluxDB Visualization" width="500"/>
-📈 Dashboard Grafana
-<img src="docs/dashboard.png" alt="Grafana Dashboard" width="500"/>
-📦 Prototipe Alat
-<img src="docs/prototipe.png" alt="Prototype Device" width="500"/>
-📈 Hasil & Analisis
+## 📸 Dokumentasi Proyek
+
+### 🔌 Diagram Wiring  
+<img src="docs/wiring.png" alt="Wiring Diagram" width="500"/>  
+
+### 🖥️ Flow Node-RED  
+<img src="docs/nodered_flow.png" alt="Node-RED Flow" width="500"/>  
+
+### 📊 Visualisasi InfluxDB  
+<img src="docs/visualisasi_influxdb.png" alt="InfluxDB Visualization" width="500"/>  
+
+### 📈 Dashboard Grafana  
+<img src="docs/dashboard.png" alt="Grafana Dashboard" width="500"/>  
+
+### 📦 Prototipe Alat  
+<img src="docs/prototipe.png" alt="Prototype Device" width="500"/>  
+
+---
+
+## 📈 Hasil & Analisis
+✅ Sistem berhasil memantau parameter udara secara akurat & stabil  
+✅ Data historis membantu analisis tren polusi udara dalam rumah  
+✅ Visualisasi Grafana memudahkan pemahaman kondisi udara  
+✅ Kualitas udara dikategorikan berdasarkan nilai PM2.5 & AQI Index  
+
 
 ✅ Sistem berhasil memantau parameter udara secara akurat & stabil
 
