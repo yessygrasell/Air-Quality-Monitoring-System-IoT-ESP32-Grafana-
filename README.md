@@ -62,7 +62,8 @@ Sistem menggunakan **ESP32**, sensor **ZH03B (PM2.5 & PM10)**, dan **DHT11 (suhu
 ### 📈 Dashboard Grafana  
 <img src="docs/dashboard.png" alt="Grafana Dashboard" width="500"/>  
 
-### 📦 Prototipe Alat  
+### 📦 Prototipe Alat
+![Flowchart](./images/flowchart.png)
 <img src="docs/prototipe.png" alt="Prototype Device" width="500"/>  
 
 ---
