@@ -51,7 +51,7 @@ Sistem menggunakan **ESP32**, sensor **ZH03B (PM2.5 & PM10)**, dan **DHT11 (suhu
 ## 📸 Dokumentasi Proyek
 
 ### 🔌 Diagram Wiring  
-<img src="docs/wiring.png" alt="Wiring Diagram" width="500"/>  
+<img MONITORING KUALITAS UDARA="docs/wiring.png" alt="Wiring Diagram" width="500"/>  
 
 ### 🖥️ Flow Node-RED  
 <img src="docs/nodered_flow.png" alt="Node-RED Flow" width="500"/>  
